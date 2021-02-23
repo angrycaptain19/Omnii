@@ -53,7 +53,12 @@ This is `pip install -U -r requirements.txt`
 
   3. Setup configuration
 
-Go to the `config.py` file in the root directory with the bot, and enter any and all variables to your own.
+Create a `config.py` file in the root directory with the bot, and use the following template.
+
+```py
+client_id = "" # your bot's client ID
+token = "" # your bot's token
+```
 
 # Join the community!
 
