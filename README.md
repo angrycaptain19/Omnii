@@ -25,6 +25,8 @@
 
 # Overview
 
+Omnii is named after the idea of Omnipotence. | *(of a deity) having unlimited power; able to do anything.*
+
 Omnii is an ambitious project to become one of the most customizable and extensive fully hosted bot out there. I want Omnii to have a place in everyone's discord server, picking up all of the bits and pieces other bots leave behind.
 
 - Moderation features (kick/ban/softban, mod-log, filter, chat cleanup)
@@ -44,5 +46,3 @@ Join us on our [Official Discord Server](https://discord.com/RU3Ee8WCuZ)
 # License
 
 Released under the [GNU GPL V3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
-
-Omnii is named after the idea of Omnipotence. *(of a deity) having unlimited power; able to do anything.*
