@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ByronMackinnon/Omnii"><img src="/github/assets/logo.png" alt="Omnii"></a>
+  <a href="https://github.com/ByronMackinnon/Omnii"><img src="/logo.png" alt="Omnii"></a>
   <br>
   Omnii | Discord Bot
   <br>
