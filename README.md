@@ -27,7 +27,7 @@
 
 Omnii is named after the idea of Omnipotence. | *(of a deity) having unlimited power; able to do anything.*
 
-Omnii is an ambitious project to become one of the most customizable and extensive fully hosted bot out there. I want Omnii to have a place in everyone's discord server, picking up all of the bits and pieces other bots leave behind.
+Omnii is an ambitious project to become one of the most customizable and extensive fully hosted bot out there. I want this bot to have a place in everyone's discord server, picking up all of the bits and pieces other bots leave behind.
 
 - Moderation features (kick/ban/softban, mod-log, filter, chat cleanup)
 - Trivia
