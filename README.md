@@ -1,0 +1,2 @@
+# BBot
+Multipurpose discord bot
